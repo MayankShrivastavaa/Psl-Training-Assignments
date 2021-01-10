@@ -1,3 +1,16 @@
+/*1.	Find the maximum of three numbers 
+static int calMax(int x,int y,int z)
+
+2.	Write a program to check whether the input alphabet is a vowel or not.
+static boolean checkAlpha(char alph)
+
+3.	Find the number is prime or not.
+static boolean isPrimeNumber( int num)
+
+4.	Method will accept range value and print all prime numbers from 2 to range on console.
+   void printPrime(int maxVal)
+*/
+
 package pslLanguageFundamentalAssignment;
 import java.util.Scanner;
 
