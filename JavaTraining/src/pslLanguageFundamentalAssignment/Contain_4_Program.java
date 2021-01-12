@@ -24,14 +24,12 @@ public class Contain_4_Program {
 	
 	static boolean checkAlpha(char alph)
 	{
-		boolean flag=true;
 		switch(alph){
 		case 'a': case 'e': case 'i': case 'o':case 'u':
-		case 'A': case 'E': case 'I': case 'O': case 'U':	
-			break;
-		default:flag=false;
+		case 'A': case 'E': case 'I': case 'O': case 'U':
+			return true;
+		default: return false;
 		}
-		return flag;
 	}
 	
 	static boolean isPrimeNumber(int num)
