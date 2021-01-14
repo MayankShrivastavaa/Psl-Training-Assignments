@@ -60,9 +60,3 @@ public class TestMedicine{
 		}
 	}
 }
-/* 
-Create a medicine object of the type as decided by a randomly generated integer in the range 1 to 3.
-Refer Java API Documentation to find out random generation feature.
-Check the polymorphic behavior of the displayLabel() method.
-
-*/
